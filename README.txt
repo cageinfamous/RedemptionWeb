@@ -30,16 +30,16 @@ FORM()
 
 #Call this script from a webpage: (ie www.site.com/script.py) and this is what you'll see:
 
-<form action="http://www.google.com">
-<select id="dropdown" name="dropdown">
+#<form action="http://www.google.com">
+#<select id="dropdown" name="dropdown">
 
-<option value="chicken">Chicken</option>
+#<option value="chicken">Chicken</option>
 
-<option value="cow">Beef</option>
+#<option value="cow">Beef</option>
 
-<option value="pig">Pork</option>
+#<option value="pig">Pork</option>
 
-</select>
-<br>
-<input type="submit" value="Submit">
-</form>
+#</select>
+#<br>
+#<input type="submit" value="Submit">
+#</form>
